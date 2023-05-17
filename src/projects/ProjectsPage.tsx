@@ -7,5 +7,5 @@ export default function ProjectsPage() {
       <h1>Projects!</h1>
       <ProjectList projects={MOCK_PROJECTS} />
     </>
-  )
+  );
 }
